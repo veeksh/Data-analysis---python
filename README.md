@@ -23,3 +23,12 @@ Most active months of the year.
  What Are The Trips In The Month
  Where Do People Start Boarding Their Trip From Most?
  Where Do People Stop Their Trip?
+
+
+# Trend analysis 
+
+use info from google trend api
+import and initialize desiered data
+Analysis of places/ countries where a word is most used
+Analysis over time
+Analysis of historical interest over time
