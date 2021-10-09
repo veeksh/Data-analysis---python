@@ -1,5 +1,4 @@
 # Whatsapp-chat-analysis
-Analysis of a chat using python -
 
 Loading and preparing dataset
 Check overall frequency of total messages on the group.
@@ -14,7 +13,7 @@ Most active months of the year.
 
 # Uber- Data -analysis
 
- Check for null values and drop null values.
+Check for null values and drop null values.
  Check how long do people travel with Uber?
  What Hour Do Most People Take Uber To Their Destination?
  Check The Purpose Of Trips
